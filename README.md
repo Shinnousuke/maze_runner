@@ -270,7 +270,7 @@ depend on the implementation of the agent and algorithm modules.
 
 ## Author
 
-Add your name or team name here.
+MEE
 
 ------------------------------------------------------------------------
 
